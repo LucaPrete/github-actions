@@ -1,2 +1,4 @@
-# github-actions
-Commonly used github actions
+# GitHub Actions
+
+List of commonly used GitHub Actions.
+
